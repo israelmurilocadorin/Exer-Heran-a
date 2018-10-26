@@ -1,7 +1,7 @@
 public class TesteEmpregado {
 
 	public static void main(String[] args) {
-		EmpregadoBaseMaisComissao empregado = new EmpregadoBaseMaisComissao("Fulano", "Silva", "076.784.059-36",
+		EmpregadoBaseMaisComissao empregado = new EmpregadoBaseMaisComissao("Fulano", "Silva", "99.999.999-99",
 				10000, .06, 1800.00);
 
 		System.out.println("Informação do empregado obtida por métodos get: ");
